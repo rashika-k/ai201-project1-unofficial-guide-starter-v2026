@@ -57,6 +57,8 @@ in at least 4 of 5 tries.
 
 ## 4. Something about your chunks
 
+At least 4 out of 5 random sampled chunks should be full complete sentences that makes semantic sense.
+
 <!-- YOU WRITE THIS ONE.
 
      How would you know if your chunks were the right size? Name something
@@ -74,10 +76,11 @@ in at least 4 of 5 tries.
 **Why this target:**
 
 
-
 ---
 
-## 5. Your choice
+## 5. Speed
+
+Each answer must come to be under 40 seconds
 
 <!-- YOU WRITE THIS ONE TOO.
 
@@ -90,7 +93,6 @@ in at least 4 of 5 tries.
 
 
 **Why this target:**
-
 
 
 ---
