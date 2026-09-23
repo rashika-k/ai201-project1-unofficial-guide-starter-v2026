@@ -74,6 +74,7 @@ At least 4 out of 5 random sampled chunks should be full complete sentences that
 
 
 **Why this target:**
+I think having legible answers is a necessity for the program to look polished.
 
 
 ---
@@ -93,6 +94,7 @@ Each answer must come to be under 40 seconds
 
 
 **Why this target:**
+ I also want it fast because waiting around should not take longer than reading the corpus ourselves.
 
 
 ---
