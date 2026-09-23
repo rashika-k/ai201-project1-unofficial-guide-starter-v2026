@@ -29,8 +29,9 @@ Rashika Karmacharya city_guide s
 
 ## Chunking Strategy
 
-**Chunk size:**
-**Overlap:**
+**Chunk size:800 (changed from 650)**
+**Overlap:120**
+I picked the city guide and the average was 650. Even though the low was very low, I didn't want it to cut of essential information just because of the low number pulling it down. It started breaking sentences midway so I brought it back to 800
 
 <!-- What about YOUR documents made you pick these numbers? Short posts and
      long sectioned guides don't want the same chunking, and "800 seemed
@@ -78,24 +79,84 @@ For each one, ask: could someone answer a question using only this,
 without reading what came before or after?
 ```
 
-**Chunk 2** — source: `` — produced by: ``
+**Chunk 2** — source: `` — produced by: guide_accessibility.md#0 ``
 
 ```
+# Getting around the region with limited mobility
+
+An honest assessment rather than a promotional one. Some of these places are
+difficult and it is better to know in advance.
+
+## Straightforward
+
+**Thornby Wells** is the easiest town in the region. It is flat, compact, and
+everything is within three minutes of everything else. Parking is free for two
+hours anywhere in town and the station is central. The pump room and gardens
+are level throughout.
+
+**Marchwood** has a modern tram network with level boarding on all four lines,
+running every 8 minutes on weekdays. The city museum and covered market are both
+step-free. The distances between districts are the main consideration.
+
+**Brightwater** is level along the river and through the centre. The mill museum
+is step-free. The station is a 15-
+
 ```
 
-**Chunk 3** — source: `` — produced by: ``
+**Chunk 3** — source: guide_givens_mill.md#0 `` — produced by: guide_givens_mill.md#0 ``
 
 ```
+ Givens Mill
+
+Givens Mill is a village of 700 built around a working watermill that still grinds flour commercially. It is the sort of place people visit for an afternoon and then talk about for longer than the visit lasted.
+
+## Getting there
+
+No station and no bus on Sundays; four buses a day from Brightwater on weekdays, taking 30 minutes. Driving is 20 minutes. The village car park holds about forty cars and is full by 11am on summer Saturdays.
+
+## Getting around
+
+Everything is on one street along the river. The mill is at one end and the church at the other, eight minutes apart. The riverside path continues in both directions for as far as you want to walk.
+
+## Eat and drink
+
+A tearoom attached to the mill, open 10 to 4 daily except Tuesdays, which sells bread made from the flour ground twenty metres away andis the reason most peopl
+
 ```
 
-**Chunk 4** — source: `` — produced by: ``
+**Chunk 4** — source: `` — produced by: guide_kestrelford.md#2  ``
 
 ```
+to go
+
+Late spring and early autumn. The Saturday market runs year-round but is much reduced from November to February. August is busy with walkers. The single-track approach road is genuinely difficult in snow and the town can be cut off for a day or two most winters.
+
+## Practical notes
+
+Cash is still useful at the market and in smaller places, though cards are
+accepted almost everywhere now. Mobile coverage is good in the centre and
+patchy on the outskirts. The nearest full hospital is in Brightwater; there is
+a minor injuries unit locally with limited hours.
+
 ```
 
-**Chunk 5** — source: `` — produced by: ``
+**Chunk 5** — source: `` — produced by: guide_regional_transport.md#1``
 
 ```
+The Kestrelford service is hourly on weekdays, two-hourly on Saturdays, and
+does not run on Sundays. The Halden Bay coast service runs four times daily
+year-round.
+
+## Driving
+
+Roads are good between the towns and poor on the approaches to both Kestrelford
+and Halden Bay. The Kestrelford approach is single-track with passing places
+for the final eight minutes. The Halden Bay coast road is cut into the cliff
+and is slow rather than difficult.
+
+Parking is the constraint rather than driving. Both Halden Bay lots fill by
+10am on summer weekends. Kestrelford's lower car park is free and involves a
+steep walk up.
 ```
 
 ## Sample Answer
